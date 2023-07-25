@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(142, 124, 99);
+}
+.register{
+    width: 400px;
+    height: 420px;
+    background-color: rgb(8, 108, 135);
+    margin: auto;
+    margin-top: 180px;
+    opacity: 0.6;
+} 
+.register>div{
+    text-align: center;
+    position: relative;
+}
+.register>div i{
+    position: absolute;
+    right: 73px;
+    top: 17px;
+}
+h4{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+    margin-bottom: 45px;
+}
+input{
+    width: 270px;
+    height: 43px;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 15px;
+    padding-left: 20px;
+}
+.inpp{
+    width: 25px;
+    height: 25px;
+}
+.remember{
+    width: auto; 
+    margin: auto;
+    position: relative;
+}
+.remember input{
+    position: absolute;
+    left: 63px;
+    top: -7px; 
+}
+.remember label{
+    margin-left: 33px;
+    margin-right: 21px;
+}
+.remember a{
+    text-decoration: none; 
+}
+.remember a:hover{
+    text-decoration:underline;
+    color: beige; 
+}
+.btn{
+    width: 281px;
+    height: 40px;
+    margin-left: 61px;
+    margin-top: 23px;
+    font-size: 21px;
+    font-weight: 700;
+}
+.btn:hover{
+    opacity: 0.9;
+}
+.reg{
+    margin-top: 15px;
+}
+.sp_2 a{
+    color: #000;
+    text-decoration: none;
+    font-weight: 900;
+    margin-left: 7px;
+}
+.sp_2 a:hover{
+    color: rgb(138, 133, 46);
+    text-decoration: underline;
+}
+
+.regist{
+    width: 400px;
+    height: 475px;
+    background-color: rgb(8, 108, 135);
+    margin: auto;
+    margin-top: 180px;
+    opacity: 0.6;
+    text-align: center;
+}  
+.rem label{
+    margin-right: 0;
+}
+.a_1{
+    color: #000;
+}  
+.spp{ 
+    color: #b1afb3; 
+}
+.reg { 
+    margin-bottom: 10px;
+}
+.p{
+    margin: 0;
+    color: rgb(54, 3, 3);
+}
+.inp_email{
+    margin-bottom: 7px;
+}
+.p_er{
+    margin-top: 0;
+    margin-bottom: 6px;
+    color: #f6f2f2;
+}
